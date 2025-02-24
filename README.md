@@ -1,9 +1,9 @@
-# Statistics-Notes-Code-Repository
-A complete compilation of notes and programming code concerning statistics operates within this repository. The repository covers basic and sophisticated statistical principles starting from descriptive to inferential analysis and probability principles and distributions and hypothesis tests together with analytical techniques.
-📌 Features:
-Well-structured notes on key statistical concepts
-Python/R code snippets for practical implementation
-Examples and explanations for better understanding
-Useful resources for data analysis and research
-This repository functions as an essential resource which serves all students alongside researchers who study data and anyone else interested in statistics. Contributions and suggestions are welcome!
+Students who refer to this repository can find both statistical code and explanation pages. The repository includes content starting from basic to advanced educational material. This repository teaches about data analysis as well as probability and hypothesis testing. 
+📌 Features: 
+Well-organized notes on key statistical concepts.
+The repository includes practical codes written in both Python and R programming languages. 
+Clear examples for better understanding.
+The collection includes research aids along with learning materials.
+The guide provides important assistance to students along with researchers and all those who demonstrate interest in statistics.
+Contributions and suggestions are welcome!
 
